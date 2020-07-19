@@ -35,9 +35,9 @@ Arbnor Halili
 
 •	Një databazë të brendshme
 ## Implementimi i këtyre kërkesave / Screenshots
-<img src="screenshots/foto1.jpg" height="300"> <img src="screenshots/foto2.jpg" height="300"> <img src="screenshots/foto3.jpg" height="300"> 
+<img src="screenshots/foto1.png" height="300"> <img src="screenshots/foto2.png" height="300"> <img src="screenshots/foto3.png" height="300"> 
 
-<img src="screenshots/foto4.jpg" height="300"> <img src="screenshots/foto5.jpg" height="300"> 
+<img src="screenshots/foto4.png" height="300"> <img src="screenshots/foto5.png" height="300"> 
 
 
 
